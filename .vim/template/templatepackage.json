@@ -1,0 +1,17 @@
+{
+  "description": "DESCRIPTION",
+  "version": "1.0.0",
+  "homepage": "HOMEPAGE",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-processhtml": "^0.3.7",
+    "grunt-shell": "^1.1.2",
+    "grunt-verb": "~0.2.4"
+  },
+  "dependencies": {
+    "grunt-contrib-copy": "^0.8.0"
+  }
+}
