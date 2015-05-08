@@ -58,9 +58,9 @@ set hlsearch                            " highlight search results
 
 "======================================= Dictionnaire  ==============================
 
-set spelllang =en,fr                    "spell correction : be careful error at the first use, need to download dictionnary
-set spell
-set spellsuggest =5
+"set spelllang =en,fr                    "spell correction : be careful error at the first use, need to download dictionnary
+"set spell
+"set spellsuggest = 5
 "z= - pour proposer un liste de mots 
 "]s - pour aller au prochain mot mal orthographié
 "[s - pour aller au précédent mot mal orthographié
