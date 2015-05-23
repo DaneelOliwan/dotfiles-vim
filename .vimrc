@@ -25,7 +25,7 @@ endif
 
 set t_Co=256                                  " activate 256 colors
 "set guifont=CosmicSansNeueMono\ 12            " select the font
-set background=dark                           " use dark theme
+"set background=dark                           " use dark theme
 
 set scrolloff=5                               " the page scrolls when the cursor is 5 lines before the limit 
 set cursorline                                " a line show where is the cursor 
