@@ -14,3 +14,8 @@ else
     ln -s $currentpath/.vim .vim
     ln -s $currentpath/.vimrc .vimrc
 fi
+
+if [ -d "$HOME/.vim-backup" ]
+then
+    mkdir "$HOME/.vim-backup"
+fi
